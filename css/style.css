@@ -1,0 +1,174 @@
+.blockRed {
+  background-color: rgba(247, 255, 79, .8);
+  border: 1px solid darkgrey;
+  height: 300px;
+  margin-right: 20px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+
+.blockPics {
+  border: 1px solid lightgrey;
+  height: 300px;
+  background: url("../lib/images/soapbox3.jpg");
+  box-shadow: 10px 10px 5px #888888;
+
+}
+
+.blockPics:hover {
+  background: url("../lib/images/derbypage1.jpg")
+}
+
+.blockPics2 {
+  border: 1px solid lightgrey;
+  height: 300px;
+  background-color: lightgrey;
+  margin-right: 20px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.countdown {
+  text-align: center;
+}
+
+.countdown2 {
+  text-align: center;
+  color: lightgrey;
+}
+
+.project {
+  color: white;
+  font-size: 1.3em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.makers {
+  font-size: 1.3em;
+  color: yellow;
+  font-family: 'Raleway', sans-serif;
+}
+
+.fa {
+  color: white;
+  font-size: 2.0em !important;
+}
+
+.fa:hover {
+  color: yellow;
+}
+
+.jumbotron {
+  height: 170px;
+}
+
+.contain1 {
+  padding-bottom: 20px;
+}
+
+#clockdiv {
+    font-family: sans-serif;
+    color: white;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+#clockdiv > div{
+    padding: 10px;
+    border-radius: 3px;
+
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding: 15px;
+    border-radius: 3px;
+
+    display: inline-block;
+}
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.form-group {
+  padding-top: 10px;
+}
+.headline {
+  text-align: center;
+  border: 1px solid darkgrey;
+  background-color: #2E48C6;
+  margin-bottom: 30px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.text1 {
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 30px;
+}
+
+.boxText {
+  font-size: .7em;
+  text-align:left;
+  padding-top: 5px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar-inverse {
+  background: #2E48C6;
+  border-color: grey;
+}
+
+.topText {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.blockYellow {
+  border: 1px solid darkgrey;
+  margin-top: 20px;
+  background-color: rgba(247, 255, 79, .8);
+  height: 300px;
+  margin-right: 20px;
+  box-shadow: 10px 10px 5px #888888;
+
+}
+
+.blockPics3 {
+  border: 1px solid lightgrey;
+  height: 300px;
+  background: url("../lib/images/soapbox4.jpg");
+  box-shadow: 10px 10px 5px #888888;
+  margin-top: 20px;
+
+}
+
+.blockPics3:hover {
+  background: url("../lib/images/soapbox5.jpg")
+}
+
+.boxText4 {
+  color: white;
+  text-align: center;
+  font-size: 1.8em;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 40%;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.btn-default {
+  margin-top: 5px;
+}
+
+#paypalbtn {
+  margin-top: 60px;
+}

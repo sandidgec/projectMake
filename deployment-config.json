@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "192.241.155.6",
+    "username": "root",
+    "password": "sh1pr0ck",
+    "port": 22,
+    "remotePath": "/usr/share/nginx/html/abqhub",
+    "uploadOnSave": true
+}
