@@ -77,7 +77,7 @@
 
                   ?>
                         <div class="page-header text-center">
-                          <h5>Thanks for signing up.</h5>
+                          <h5>Thanks for signing up with us.</h5>
                         </div>
 
                   <?php
